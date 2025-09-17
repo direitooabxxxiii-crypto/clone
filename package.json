@@ -1,0 +1,22 @@
+{
+  "name": "real-time-voice-cloning",
+  "version": "1.0.0",
+  "description": "Real-Time Voice Cloning - Python-based voice synthesis system",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'This is a Python project. No JavaScript build required.'",
+    "start": "echo 'This is a Python project. Use Python commands to run the application.'",
+    "test": "echo 'This is a Python project. Use pytest or similar for testing.'"
+  },
+  "keywords": [
+    "voice-cloning",
+    "speech-synthesis",
+    "python",
+    "tacotron",
+    "wavernn"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {}
+}
